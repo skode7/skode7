@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skode7
 - 👀 I’m interested in Programming (Python, Bash, PowerShell, Maybe C in future), Cyber, Networks, System Adminstration and lot of more.
 - 🌱 I’m currently learning Cyber with CTF's, Bash, Basic Networking, Basic IT skills.  
-- 💞️ I'm looking to collaborate on beginner to intermediate level projects. I love learning new skills and I'm highly motivated to keep developing myself.
+- 💞️ I'm looking to collaborate on intermediate level projects. I love learning new skills and I'm highly motivated to keep developing myself.
 - 📫 How to reach me Discord - jeemug or email.
 - 😄 Pronouns: he/him
 
