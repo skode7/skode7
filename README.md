@@ -4,4 +4,3 @@ Currently studying **ICT Engineering** at Metropolia UAS, with a deep dive into 
 
 ### Languages & Tools
 * **Languages:** Java, Python, JavaScript, SQL
-* **Focus:** Machine Learning, Data Analysis, Web Development
